@@ -26,10 +26,14 @@ body {
   }
   
   a:hover{
-    color: green;
-    text-decoration: underline;
+    color: rgb(74, 239, 74);
+    border-bottom: 5px solid rgb(74, 237, 74);
+    width: 20px;
+    padding-bottom: 25px;
   
    }
+
+   
    
 
    
